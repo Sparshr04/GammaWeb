@@ -24,11 +24,11 @@ If you'd like to run any of these projects on your local machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Sparshr04/GammaWeb.git](https://github.com/Sparshr04/GammaWeb.git)
+    git clone https://github.com/Sparshr04/GammaWeb.git
     ```
 2.  **Navigate to the project folder:**
     ```bash
-    cd GammaWeb/[project-folder-name]
+    cd GammaWeb/
     ```
 3.  **Open the `index.html` file in your browser.**
 
